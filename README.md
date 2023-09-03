@@ -12,7 +12,7 @@ Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas 
 
 ### Conhecimento em:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,git,github&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,html,css,js,git,github)](https://skillicons.dev)
 
 ### Aprendendo:
 
