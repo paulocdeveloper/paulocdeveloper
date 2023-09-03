@@ -1,16 +1,13 @@
-### Hi there 👋
+## Olá, Meu nome é Paulo 👋
+Atualmente cursando **Analise e Desenvolvimento de Sistemas** na [Uninove](https://www.uninove.br/)
 
-<!--
-**paulocdeveloper/paulocdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Um pouco Sobre mim 👨‍💻
+
+Meu nome é **Paulo César**, desenvolvedor **front-end**, moro em **Guarulhos-SP** e sempre fui apaixonado por tecnologia, interação, desafios e imaginação que é o video game. Já fiz vários projetos desde que iniciei nessa jornada dev, são projetos simples até algumas mais complexas.
+
+Estou sempre querendo aprender mais para aplicar esse conhecimento em problemas reais e assim ajudo na vida das pessoas diretamente e indiretamente.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github,figma,nodejs,angular&perline=4)](https://skillicons.dev)
